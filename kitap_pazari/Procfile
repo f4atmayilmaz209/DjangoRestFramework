@@ -1,0 +1,1 @@
+web: gunicorn kitap_pazari.wsgi
